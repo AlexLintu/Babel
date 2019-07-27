@@ -1,0 +1,19 @@
+{
+  "name": "babel-test",
+  "version": "1.0.0",
+  "description": "Use Babel to transpile JS ES6 to ES5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLintu/Babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexLintu/Babel/issues"
+  },
+  "homepage": "https://github.com/AlexLintu/Babel#readme"
+}
